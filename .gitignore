@@ -4,3 +4,8 @@ _site/
 .jekyll-cache/
 .jekyll-metadata
 .bundle/
+*.vsidx
+/.vs/slnx.sqlite
+/.vs/VSWorkspaceState.json
+*.wsuo
+/.vs/training-github-games/v17/DocumentLayout.json
